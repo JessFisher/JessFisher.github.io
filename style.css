@@ -1,8 +1,8 @@
-body {
-background-color:#66454E;
+body{
+   background-color:#66454E;
 }
 
-li {
+li{
   display: inline-block;
   margin-top:2%;
   margin-right:75px;
@@ -22,7 +22,7 @@ h1{
     margin-bottom: 3%
 }
 
-h2 {
+h2{
    color: #C6C6C4;
    font-family: "Work Sans", sans-serif;
    font-size: 2.0em;
@@ -34,12 +34,12 @@ h2 {
    margin: 10px 0 20px;
 }
 
-h2 span {
+h2 span{
     background:#66454E;
     padding:0 10px;
 }
 
-h1, h2 {
+h1, h2{
     position: fixed;
     bottom: 5%;
     width: 50%;
